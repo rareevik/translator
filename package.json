@@ -1,0 +1,11 @@
+{
+  "name": "translator",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {},
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^18.0.10",
+    "openai": "^7.56.0"
+  }
+}
